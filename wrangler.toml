@@ -5,8 +5,8 @@ compatibility_date = "2025-02-21"
 # KV Namespace Binding
 [[kv_namespaces]]
 binding = "KV"
-id = ""  # Create a KV database and put the id of here
+id = "dda1f45e316a46019b916790a4d226ec"  # Create a KV database and put the id of here
 
 # Environment Variables
 [vars]
-SECRET_CODE = ""  # Set this in Cloudflare dashboard or .env for local dev
+SECRET_CODE = ""
